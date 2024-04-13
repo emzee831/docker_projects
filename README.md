@@ -1,2 +1,3 @@
 # docker_projects
-test
+
+Practicing Docker with simple projects
